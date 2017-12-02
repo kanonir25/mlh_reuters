@@ -1,0 +1,8 @@
+{
+   "GetIntradayTimeSeries_Request_4": {
+      "Symbol": "BTC=",
+      "Day": "0",
+      "Interval": "HOUR",
+      "TrimResponse": true
+   }
+}
